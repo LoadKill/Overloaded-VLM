@@ -1,2 +1,2 @@
 # VLM
-과적차량 Vision-Language Model 작업 레포
+과적 차량 Vision-Language Model 작업 레포
